@@ -1,57 +1,58 @@
 export const Configuration =
 {
     profileUrl:"https://avatars2.githubusercontent.com/u/54680491?s=460&u=8d75b0e5a475bc8cd6f94aa5612e2b86faff6207&v=4",
-    userName:"Abdullah Öztürk",
+    // profileUrl:"https://drive.google.com/file/d/1ESONLUoJFlpvrcstOhv9gymhiLPXVdin/view?usp=sharing",
+    userName:"ROBERT LAMECK",
     userJob:"Software Developer",
-    userLocation:"İstanbul",
-    userEmail:"oabdullahozturk@yandex.com",
+    userLocation:"Tanzania",
+    userEmail:"robertotonde316@gmail.com",
     userDateOfBirth:"12/09/1998",
-    userAddress:"Bahçelievler / Istanbul",    
-    userPhone:"(555) 123 4567",
-    aboutMe:"Abdullah Öztürk. I am fullstack developer and blogger. I interested in .net technologies for backend and angular for frontend. You can read my articles on medium.",
+    userAddress:"Dar-es-Salaam/ Goba",
+    userPhone:"(+255) 742 964200",
+    aboutMe:"Robert Lameck Fredrick , full stack developer based on angular framework and  mobile application development based on flutter framework . convinient working on backend technologies of Node js.self learnig determination with ammbition to transform the world problems to technology solution ",
 };
 
 //Personal Informations
 
-export const Skills  = 
+export const Skills  =
 [
-    "C#",".Net Core","Angular","Asp.Net","Typescript","Javascript"
+    "C#",".Net Core","Angular","Asp.Net","Typescript","Javascript","Flutter","Java","Html" ,"MVC"
 ];
 
 //Max skills limit is 6 . If you add more than 6 skill , you may be disappointed.
 
-export const JobExperience  = 
+export const JobExperience  =
 [
-    {company : "IBM / Serii" , rank : "Logistic Support Personal " , date:"07/2017 - 08/2016" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    {company : "Albayrak Bilgisayar" , rank : "Technical Service Personal" , date:"07/2015 - 07/2015" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+    {company : "DHIS2" , rank : "JUNIOUR PROGRAMMER " , date:"08/2021 - 10/2021" , description:"Assigned to design the project about user support app"},
+    {company : "UDICTI " , rank : "JUNIOUR PROGRAMMER" , date:"08/2020 - 10/2020" , description:"Created a project about streaming services in tanzania (WAPIFY)"},
 ];
 
 //Max job experiences limit is 3 . If you add more than 3 skill , you may be disappointed.
 
-export const Education  = 
+export const Education  =
 [
-    { school : "Sivas Cumhuriyet University" , date:"09/2018 - Present" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { school : "Türk Telekom Vocational High School" , date:"09/2013 - 07/2017" , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+    { school : "KIBAHA HIGH SCHOOL " , date:"07/2017 - 05/2019" , description:"High school level education at pwani region persuing Physics,chemistry and advanced mathematics (PCM)."},
+    { school : "UNIVERSITY OF DAR ES SALAAM - COICT" , date:"11/2019 - present " , description:"Persuing bacheleor of science in computer science "},
 ];
 
 //Max education limit is 3 . If you add more than 3 skill , you may be disappointed.
 
-export const Services  = 
+export const Services  =
 [
-    { serviceName : "Web Design" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Desktop Development"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Software Architecture"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Social Media Management"  , description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
-    { serviceName : "Logo Design" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
+    { serviceName : "Web Design" ,  description:"Creating responsive web application with angular framework "},
+    { serviceName : "Desktop Development"  , description:"Creating desktop application with java programs"},
+    { serviceName : "Software Architecture"  , description:"Design progressive mobile application with enhanced security to drive business excellence "},
+    { serviceName : "Social Media Management"  , description:"Enhancing traffic on social media account to  reach out more people "},
+    { serviceName : "Logo Design" ,  description:"Simple logo design with minimal description"}
 ];
 
 //Max services limit is 6 . If you add more than 6 skill , you may be disappointed.
 
-export const Testimonials  = 
+export const Testimonials  =
 [
-    { name : "Person X" , company:"Facebook" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam aliquet dui at ultricies. Donec fermentum lorem sit amet massa vestibulum, vel pellentesque lectus vestibulum." , review:85},
-    { name : "Person Y" , company:"Instagram" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam aliquet dui at ultricies. Donec fermentum lorem sit amet massa vestibulum, vel pellentesque lectus vestibulum." , review:80},
-    { name : "Person Z" , company:"Uber" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam aliquet dui at ultricies. Donec fermentum lorem sit amet massa vestibulum, vel pellentesque lectus vestibulum." , review:79},
+    { name : "Rajabu mkomwa" , company:"DHIS2" ,  description:"Good working skills efficient with the languages learnt.ability to work under pressure and cooperative with team work .Finished the job on time and good use of available resources to perform the required task" , review:85},
+    { name : "Vicent Minde" , company:"DHIS2" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam aliquet dui at ultricies. Donec fermentum lorem sit amet massa vestibulum, vel pellentesque lectus vestibulum." , review:80},
+    { name : "Moses Ismail" , company:"UDICTI" ,  description:"Adaptive to new technology trends and fast learning . Good creator on business plan and model on progressive web app and mobile application operation " , review:79},
     { name : "Person W" , company:"Airbnb" ,  description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam aliquet dui at ultricies. Donec fermentum lorem sit amet massa vestibulum, vel pellentesque lectus vestibulum." , review:99}
 
 ];
